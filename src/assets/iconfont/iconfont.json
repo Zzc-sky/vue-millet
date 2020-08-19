@@ -1,0 +1,65 @@
+{
+  "id": "2003076",
+  "name": "小米商城",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1064711",
+      "name": "垃圾箱",
+      "font_class": "lajixiang",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "2667540",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "3440964",
+      "name": "上下左右-03",
+      "font_class": "shangxiazuoyou-",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "11661385",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e85d",
+      "unicode_decimal": 59485
+    },
+    {
+      "icon_id": "13904010",
+      "name": "上下左右-01",
+      "font_class": "shangxiazuoyou-1",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "13904013",
+      "name": "上下左右-02",
+      "font_class": "shangxiazuoyou-2",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "13904016",
+      "name": "上下左右-04",
+      "font_class": "shangxiazuoyou-3",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "14023543",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
